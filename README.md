@@ -1,1 +1,1 @@
-# stress_test_with_gatling
+# Stress Test with Gatling
